@@ -1,2 +1,3 @@
-# my-portfolio
-This is my professional portfolio
+# Robert Litchfield's portfolio
+
+This is my professional portfolio, it uses AWS and ReactJS
