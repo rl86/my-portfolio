@@ -38,6 +38,6 @@
     "webpack-cli": "^2.0.13"
   },
   "jest": {
-  "testEnvironment": "node"
-}
+    "testEnvironment": "node"
+  }
 }
