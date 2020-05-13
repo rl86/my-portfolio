@@ -4,7 +4,7 @@
   "description": "My Portfolio",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "jest",
     "webpack": "webpack",
     "webpack-watch": "webpack --watch",
     "dev": "webpack --mode development"
@@ -30,5 +30,8 @@
     "babel-preset-react": "^6.24.1",
     "webpack": "^4.2.0",
     "webpack-cli": "^2.0.13"
+  },
+  "jest": {
+  "testEnvironment": "node"
   }
 }
