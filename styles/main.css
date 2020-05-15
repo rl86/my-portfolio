@@ -209,6 +209,12 @@ h1, h2, h3, h4, h5, h6 {
   curson: pointer;
 }
 
+.modal__closeButton:active {
+  right: 2.15rem;
+  top: 5.15rem;
+  font-size: 3.75rem;
+}
+
 .modal__text {
   position: absolute;
   top: 0;
